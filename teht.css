@@ -18,115 +18,144 @@ body {
 
 .top__bar {
     display:flex;
+    flex-direction: row;
 }
 
 .top__bar__info {
     display:flex;
+    flex-direction: column;
 }
 .top__bar__icon{
     display:flex;
+    flex-direction: row;
 }
 .top__bar__hour{
     display:flex;
+    flex-direction: row;
 
 }
 .top__bar__time{
     display:flex;
+    flex-direction: row;
 
 }
 .top__bar__status{
     display:flex;
+    flex-direction: row;
 
 
 }
 .top__bar__socials{
     display:flex;
+    flex-direction: row;
 
 }
 
 .navbar {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__left{
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__logo{
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__brand {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__menu {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__item {
     display:flex;
+    flex-direction: row;
 
 }    
 .navbar__right {
     display:flex;
+    flex-direction: row;
 
 }
 .navbar__cta {
     display:flex;
+    flex-direction: row;
 
 }
 .banner {
     display:flex;
+    flex-direction: row;
 
 }
 .banner__search {
     display:flex;
+    flex-direction: row;
 }
 .banner__content {
     display:flex;
+    flex-direction: row;
 
 }
 .banner__title {
     display:flex;
+    flex-direction: row;
 
 }
 .banner__subtitle {
     display:flex;
+    flex-direction: row;
      
 }
 .banner__buttons {
     display:flex;
+    flex-direction: row;
 
 }
 .btn__secondary {
     display:flex;
+    flex-direction: row;
 
 }
 .btn__primary {
     display:flex;
+    flex-direction: row;
 
 }
