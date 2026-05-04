@@ -15,3 +15,118 @@ body {
     text-align: center;
     padding: 100px 20px;
 }
+
+.top__bar {
+    display:flex;
+}
+
+.top__bar__info {
+    display:flex;
+}
+.top__bar__icon{
+    display:flex;
+}
+.top__bar__hour{
+    display:flex;
+
+}
+.top__bar__time{
+    display:flex;
+
+}
+.top__bar__status{
+    display:flex;
+
+
+}
+.top__bar__socials{
+    display:flex;
+
+}
+
+.navbar {
+    display:flex;
+
+}
+.navbar__left{
+    display:flex;
+
+}
+.navbar__logo{
+    display:flex;
+
+}
+.navbar__brand {
+    display:flex;
+
+}
+.navbar__menu {
+    display:flex;
+
+}
+.navbar__item {
+    display:flex;
+
+}
+.navbar__item {
+    display:flex;
+
+}
+.navbar__item {
+    display:flex;
+
+}
+.navbar__item {
+    display:flex;
+
+}
+.navbar__item {
+    display:flex;
+}
+.navbar__item {
+    display:flex;
+
+}
+.navbar__item {
+    display:flex;
+
+}    
+.navbar__right {
+    display:flex;
+
+}
+.navbar__cta {
+    display:flex;
+
+}
+.banner {
+    display:flex;
+
+}
+.banner__search {
+    display:flex;
+}
+.banner__content {
+    display:flex;
+
+}
+.banner__title {
+    display:flex;
+
+}
+.banner__subtitle {
+    display:flex;
+     
+}
+.banner__buttons {
+    display:flex;
+
+}
+.btn__secondary {
+    display:flex;
+
+}
+.btn__primary {
+    display:flex;
+
+}
