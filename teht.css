@@ -19,11 +19,14 @@ body {
 .top__bar {
     display:flex;
     flex-direction: row;
+    padding: 0 60px;
 }
 
 .top__bar__info {
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
+    margin: 20px;
+    gap: 18px;
 }
 .top__bar__icon{
     display:flex;
@@ -48,6 +51,9 @@ body {
 .top__bar__socials{
     display:flex;
     flex-direction: row;
+    margin: 21px;
+    padding-left: 100px;
+    gap: 90px;
 
 }
 
