@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: Arial;
-    padding: 0 60px;
 }
 
 .navbar {
@@ -22,6 +21,8 @@ body {
 .top__bar {
     display:flex;
     flex-direction: row;
+    background-color: #3F251E;
+    color: white;
     
 }
 
@@ -63,6 +64,8 @@ body {
 .navbar {
     display:flex;
     flex-direction: row;
+    background-color: #161616;
+    color: white;
 
 }
 .navbar__left{
@@ -146,11 +149,13 @@ body {
 .banner__content {
     display:flex;
     flex-direction: column;
+    background-color: #ABA18D;
 
 }
 .banner__title {
     display:flex;
     flex-direction: row;
+    padding: 65px;
 
 }
 .banner__subtitle {
@@ -161,15 +166,23 @@ body {
 .banner__buttons {
     display:flex;
     flex-direction: column;
+    gap:10px;
 
 }
 .btn__secondary {
     display:flex;
     flex-direction: row;
+    width: 140px;
+    height: 45px;
+    padding: 13px;
+
 
 }
 .btn__primary {
     display:flex;
     flex-direction: row;
+    width: 140px;
+    height: 45px;
+    padding: 13px;
 
 }
